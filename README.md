@@ -6,4 +6,4 @@ Projects studying and practicing with bootstrap
 - institutional website without framework, only HTML, CSS and JavaScript.
 - mobile first
 - Font Awesome for icons
-- Issues 1 to n
+- Issues 1 to 4
