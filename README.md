@@ -1,6 +1,8 @@
 # frontend-bootstrap
 Projects studying and practicing with bootstrap
 
+# Projects
+
 ## Project 1:
 - **agency_page**
 - institutional website without framework, only HTML, CSS and JavaScript.
@@ -8,7 +10,7 @@ Projects studying and practicing with bootstrap
 - Font Awesome for icons
 - Issues 1 to 4
 
-## Samples
+## Samples:
 ### Sample 1:
 - **layout**
 - Layout Bootstrap
