@@ -20,12 +20,13 @@ Projects studying and practicing with bootstrap
 
 ## Assignment1:
 - **assignment1**
-- [ ] create a new project with Bootstrap and its own css file
+- [X] create a new project with Bootstrap and its own css file
 - [ ] create a grid
 - [ ] max 4 columns per row
 - [ ] add 8 columns
 - [ ] even e odd columns must have different color, use background-color
 - [ ] add border to columns
+- Issues #7
 
 ## Samples:
 ### Sample 1:
