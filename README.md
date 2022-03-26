@@ -38,3 +38,8 @@ Projects studying and practicing with bootstrap
 - **grid_page**
 - Grid Bootstrap
 - Issues #6
+
+### Sample 3:
+- **icons**
+- Icons Bootstrap
+- Issues #8

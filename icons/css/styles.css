@@ -1,0 +1,26 @@
+.bi.bi-bell {
+    color: green;
+    margin: 20px;
+}
+
+.bi {
+    font-size: 60px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.blue:hover {
+    color: red;
+}
+
+.btn {
+    border: none;
+    background: none;
+}
+
