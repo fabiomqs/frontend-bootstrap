@@ -28,6 +28,15 @@ Projects studying and practicing with bootstrap
 - [X] add border to columns
 - Issues #7
 
+## Assignment 2:
+- **assignment2**
+- [X] create a new project with Bootstrap and its own css file 
+- [X] create a grid with 3 lines
+- [X] each line must have a icon and a description
+- [X] change the color and size of each icon, color must be different
+- [X] align the content to center and add padding
+- Issues #9
+
 ## Samples:
 ### Sample 1:
 - **layout**

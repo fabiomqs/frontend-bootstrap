@@ -1,0 +1,21 @@
+.row {
+    border: 1px solid red;
+    height: 150px;
+}
+
+.col {
+    border: 2px dashed green;
+}
+
+.bi.bi-badge-3d-fill{
+    color: aquamarine;
+    font-size: 40px;
+}
+.bi.bi-badge-4k-fill{
+    color: burlywood;
+    font-size: 60px;
+}
+.bi.bi-battery-full{
+    color: chartreuse;
+    font-size: 80px;
+}
