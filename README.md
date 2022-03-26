@@ -16,6 +16,11 @@ Projects studying and practicing with bootstrap
 - Font Awesome for icons
 - Issues #1, #2, #3, #4
 
+## Project 2:
+- **art**
+- art gallery page
+- Issues #10, #11, #12, #13
+
 # Assignments
 
 ## Assignment 1:
@@ -26,7 +31,7 @@ Projects studying and practicing with bootstrap
 - [X] add 8 columns
 - [X] even e odd columns must have different color, use background-color
 - [X] add border to columns
-- Issues #7
+- Issue #7
 
 ## Assignment 2:
 - **assignment2**
@@ -35,20 +40,20 @@ Projects studying and practicing with bootstrap
 - [X] each line must have a icon and a description
 - [X] change the color and size of each icon, color must be different
 - [X] align the content to center and add padding
-- Issues #9
+- Issue #9
 
 ## Samples:
 ### Sample 1:
 - **layout**
 - Layouts Bootstrap
-- Issues #5
+- Issue #5
 
 ### Sample 2:
 - **grid_page**
 - Grid Bootstrap
-- Issues #6
+- Issue #6
 
 ### Sample 3:
 - **icons**
 - Icons Bootstrap
-- Issues #8
+- Issue #8
