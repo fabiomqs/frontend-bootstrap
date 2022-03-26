@@ -1,6 +1,12 @@
 # frontend-bootstrap
 Projects studying and practicing with bootstrap
 
+## Snipets vscode:
+- create div with class and id
+```
+.classname.otherclass#id
+```
+
 # Projects
 
 ## Project 1:
@@ -9,6 +15,17 @@ Projects studying and practicing with bootstrap
 - mobile first
 - Font Awesome for icons
 - Issues #1, #2, #3, #4
+
+# Assignments
+
+## Assignment1:
+- **assignment1**
+- [ ] create a new project with Bootstrap and its own css file
+- [ ] create a grid
+- [ ] max 4 columns per row
+- [ ] add 8 columns
+- [ ] even e odd columns must have different color, use background-color
+- [ ] add border to columns
 
 ## Samples:
 ### Sample 1:
