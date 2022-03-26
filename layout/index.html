@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" 
+    rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Layout</title>
+</head>
+<body>
+    <h1>Seção de Layout</h1>
+    <button class="btn btn-primary">Click</button>
+
+    <!-- Container -->
+    <div class="container">
+       <h2>Lorem Ipsum</h2>
+        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p>Fusce imperdiet varius ultricies. Ut porta eget eros non ultrices.</p>
+        <p>Mauris pulvinar libero ac magna egestas congue.</p>
+    </div>
+
+    <!-- Container Fluid -->
+    <div class="container-fluid">
+        <h2>Lorem Ipsum</h2>
+         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+         <p>Fusce imperdiet varius ultricies. Ut porta eget eros non ultrices.</p>
+         <p>Mauris pulvinar libero ac magna egestas congue.</p>
+     </div>
+     
+     <!-- Container BreakPoint-->
+     <div class="container-sm">
+        <h2>Lorem Ipsum</h2>
+         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+     </div>
+     <div class="container-md">
+        <h2>Lorem Ipsum</h2>
+         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+     </div>
+     <div class="container-lg">
+        <h2>Lorem Ipsum</h2>
+         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+     </div>
+
+     <!-- Grid -->
+     <div class="container">
+         <div class="row">
+             <div class="col">Lorem Ipsum A</div>
+             <div class="col">Lorem Ipsum B</div>
+         </div>
+         <div class="row">
+            <div class="col">Lorem Ipsum C</div>
+            <div class="col">Lorem Ipsum D</div>
+            <div class="col">Lorem Ipsum E</div>
+        </div>
+     </div>
+
+     <!-- Collumns Size -->
+     <div class="container">
+         <div class="row">
+             <div class="col col-4"></div>
+             <div class="col col-2"></div>
+         </div>
+         <div class="row">
+            <div class="col col-1"></div>
+            <div class="col col-11"></div>
+        </div>
+        <div class="row">
+            <div class="col col-4"></div>
+            <div class="col col-4"></div>
+            <div class="col col-4"></div>
+        </div>
+     </div>
+
+     
+     <!-- Columns Size -->
+     <div class="container" id="largua-limitada">
+       <div class="row">
+           <div class="col col-4"></div>
+           <div class="col col-4"></div>
+           <div class="col col-4"></div>
+       </div>
+    </div>
+
+    <!-- Columns max -->
+    <div class="container">
+        <div class="row row-cols-2">
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+        <div class="row row-cols-2">
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+        <div class="row row-cols-2">
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+    </div>
+
+    <!-- vertical alignment align-items-* -->
+    <div class="container vertical">
+        <div class="row align-items-end">
+            <div class="col col-6"></div>
+            <div class="col col-6"></div>
+        </div>
+    </div>
+
+    <div class="container vertical">
+        <div class="row align-items-center">
+            <div class="col col-6"></div>
+            <div class="col col-6"></div>
+        </div>
+    </div>
+
+    <!-- horizontal alignment justify-content-* -->
+
+    <div class="container vertical">
+        <div class="row align-items-center justify-content-center">
+            <div class="col col-3"></div>
+        </div>
+    </div>
+
+    <div class="container vertical">
+        <div class="row justify-content-end">
+            <div class="col col-3"></div>
+            <div class="col col-3"></div>
+        </div>
+    </div>
+
+    <!-- alignment self  align-self-*-->
+    <div class="container vertical">
+        <div class="row">
+            <div class="col col-3"></div>
+            <div class="col col-3 align-self-center"></div>
+            <div class="col col-3"></div>
+            <div class="col col-3 align-self-center"></div>
+        </div>
+    </div>
+
+    <div class="container vertical">
+        <div class="row">
+            <div class="col col-4"></div>
+            <div class="col col-4 align-self-center"></div>
+            <div class="col col-4 align-self-end"></div>
+            
+        </div>
+    </div>
+
+    <!-- order order-* -->
+
+    <div class="container vertical">
+        <div class="row">
+            <div class="col col-sm-12 col-3 order-3">3</div>
+            <div class="col col-sm-12 col-3 order-1">1</div>
+            <div class="col col-sm-12 col-3 order-4">4</div>
+            <div class="col col-sm-12 col-3 order-2">2</div>
+        </div>
+    </div>
+
+    <!-- column offset offset-<breakpoint>-* -->
+    <div class="container vertical" id="offset">
+        <div class="row">
+            <div class="col-md-3 offset-md-1"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 offset-md-2"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 offset-md-3"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 offset-md-4"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 offset-md-5"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 offset-md-6"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 offset-md-7"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 offset-md-8"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 offset-md-9"></div>
+        </div>
+    </div>
+
+    <!-- Gutters gx-* gy-* g-* -->
+    <div class="container" id="gutter">
+        <div class="row gx-2">
+            <div class="col">
+                <p>GX</p>
+            </div>
+            <div class="col">
+                <p>GX</p>
+            </div>
+        </div>
+        <div class="row gy-4">
+            <div class="col">
+                <p>GY</p>
+            </div>
+            <div class="col">
+                <p>GY</p>
+            </div>
+        </div>
+        <div class="row g-5">
+            <div class="col col-6">
+                <p>G</p>
+            </div>
+            <div class="col col-6">
+                <p>G</p>
+            </div>
+            <div class="col col-6">
+                <p>G</p>
+            </div>
+            <div class="col col-6">
+                <p>G</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

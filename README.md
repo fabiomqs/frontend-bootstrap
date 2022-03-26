@@ -31,7 +31,7 @@ Projects studying and practicing with bootstrap
 ## Samples:
 ### Sample 1:
 - **layout**
-- Layout Bootstrap
+- Layouts Bootstrap
 - Issues #5
 
 ### Sample 2:
