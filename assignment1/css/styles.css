@@ -1,0 +1,13 @@
+.col {
+    border: 1px solid red;
+    height: 50px;
+    margin: 0;
+}
+
+.odd {
+    background-color: #CCC;
+}
+
+.even {
+    background-color: #333;
+}
