@@ -57,3 +57,9 @@ Projects studying and practicing with bootstrap
 - **icons**
 - Icons Bootstrap
 - Issue #8
+
+### Sample 4:
+- **responsive_1**
+- Responsive page
+- from: https://youtu.be/Dr2rfJTnPBI
+- Issues #14
