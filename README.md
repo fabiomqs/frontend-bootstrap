@@ -73,4 +73,6 @@ Projects studying and practicing with bootstrap
 - typography: headings
 - typography: blockquotes
 - utilities: display
+- text-decoration-line-through: ~~example~~
+- content: images
 - Issue #20
