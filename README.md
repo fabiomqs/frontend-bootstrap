@@ -62,4 +62,4 @@ Projects studying and practicing with bootstrap
 - **responsive_1**
 - Responsive page
 - from: https://youtu.be/Dr2rfJTnPBI
-- Issues #14
+- Issues #14, #15, #16
