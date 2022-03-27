@@ -43,23 +43,32 @@ Projects studying and practicing with bootstrap
 - Issue #9
 
 ## Samples:
-### Sample 1:
-- **layout**
-- Layouts Bootstrap
-- Issue #5
 
-### Sample 2:
+### Sample 1:
 - **grid_page**
 - Grid Bootstrap
 - Issue #6
 
-### Sample 3:
+### Sample 2:
 - **icons**
 - Icons Bootstrap
 - Issue #8
 
-### Sample 4:
+### Sample 2:
 - **responsive_1**
 - Responsive page
 - from: https://youtu.be/Dr2rfJTnPBI
 - Issues #14, #15, #16, #17, #18, #19
+
+
+# Bootstap
+
+## Part 1:
+- **layout**
+- Layouts Bootstrap
+- Issue #5
+
+## Part 2:
+- **text_elements**
+- typography: headings
+- Issue #5
