@@ -71,5 +71,6 @@ Projects studying and practicing with bootstrap
 ## Part 2:
 - **text_elements**
 - typography: headings
+- typography: blockquotes
 - utilities: display
 - Issue #20
