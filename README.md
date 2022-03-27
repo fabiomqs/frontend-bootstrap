@@ -76,4 +76,5 @@ Projects studying and practicing with bootstrap
 - text-decoration-line-through: ~~example~~
 - content: images
 - content: figures
+- content: tables
 - Issue #20
