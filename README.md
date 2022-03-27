@@ -42,6 +42,15 @@ Projects studying and practicing with bootstrap
 - [X] align the content to center and add padding
 - Issue #9
 
+## Assignment 3:
+- **assignment3**
+- [X] create a grid
+- [X] add a title with heading of size 2
+- [X] add a paragraph with strong
+- [X] add a responsive image with 6 cols
+- [X] add 2 tables side by side
+- Issue #21
+
 ## Samples:
 
 ### Sample 1:
