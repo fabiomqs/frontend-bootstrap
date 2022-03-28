@@ -87,3 +87,7 @@ Projects studying and practicing with bootstrap
 - content: figures
 - content: tables
 - Issue #20
+
+## Part 3:
+- **forms**
+- Issue #22
