@@ -136,25 +136,33 @@
     <!-- Other elements -->
     <div class="container">
         <div class="col-4 m-4">
-          <h2>Outros inputs</h2>
-          <form>
-            
-            <!-- Data list -->   
-            <div class="mb-4">
-              <label for="cidades" class="form-label">Selecione uma cidade:</label>
-              <input class="form-control" list="datalistOptions" id="cidades" placeholder="Busque a sua cidade...">
-              <datalist id="datalistOptions">
-                <option value="São Paulo">
-                <option value="Rio de Janeiro">
-                <option value="Florianópolis">
-                <option value="Porto Alegre">
-                <option value="Londrina">
-              </datalist>
-            </div>
+            <h2>Outros inputs</h2>
+            <form>
 
-            
-            
-          </form>
+                <!-- Color -->
+                <div class="mb-4">
+                    <label for="cor" class="form-label">Cor:</label>
+                    <input type="color" class="form-control form-control-color" id="cor" value="#000"
+                        title="Escolha uma cor">
+                </div>
+
+                <!-- Data list -->
+                <div class="mb-4">
+                    <label for="cidades" class="form-label">Selecione uma cidade:</label>
+                    <input class="form-control" list="datalistOptions" id="cidades"
+                        placeholder="Busque a sua cidade...">
+                    <datalist id="datalistOptions">
+                        <option value="São Paulo">
+                        <option value="Rio de Janeiro">
+                        <option value="Florianópolis">
+                        <option value="Porto Alegre">
+                        <option value="Londrina">
+                    </datalist>
+                </div>
+
+
+
+            </form>
         </div>
     </div>
 
