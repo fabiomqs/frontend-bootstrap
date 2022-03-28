@@ -17,7 +17,7 @@
 <body>
 
     <!-- Creating form -->
-    <div class="container" id="container-1">
+    <div class="container">
         <div class="col-4 m-4">
             <h2>Formulário de Registro</h2>
             <form>
@@ -37,7 +37,7 @@
     </div>
 
     <!-- Form disabled -->
-    <div class="container" id="container-2">
+    <div class="container">
         <div class="col-4 m-4">
             <h2>Formulário de Registro</h2>
             <form>
@@ -54,6 +54,45 @@
                     </div>
                     <button type="submit" class="btn btn-primary">Cadastrar</button>
                 </fieldset>
+            </form>
+        </div>
+    </div>
+
+    <!-- Form Control -->
+    <div class="container">
+
+        <div class="col-4 m-4">
+            <h2>Crie seu post</h2>
+            <form>
+                <div class="mb-4">
+                    <label for="title" class="form-label">Título do Post:</label>
+                    <input type="text" class="form-control" id="title" name="title" placeholder="Insira o título">
+                </div>
+                <div class="mb-4">
+                    <label for="content" class="form-label">Conteúdo:</label>
+                    <textarea name="content" id="content" rows="5" class="form-control"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Publicar</button>
+            </form>
+        </div>
+
+        <div class="col-4 m-4">
+            <h2>Testes form control</h2>
+            <form>
+                <div class="mb-4">
+                    <label for="x" class="form-label">Título do Post:</label>
+                    <input type="text" class="form-control form-control-sm" id="x" name="x"
+                        placeholder="Insira o título">
+                </div>
+                <div class="mb-4">
+                    <label for="y" class="form-label">Título do Post:</label>
+                    <input type="text" class="form-control" id="y" name="y" placeholder="Insira o título">
+                </div>
+                <div class="mb-4">
+                    <label for="z" class="form-label">Título do Post:</label>
+                    <input type="text" class="form-control form-control-lg" id="z" name="z"
+                        placeholder="Insira o título">
+                </div>
             </form>
         </div>
     </div>

@@ -1,7 +1,6 @@
-#container-1 {
-    background-color: aqua;
-}
-
-#container-2 {
-    background-color: burlywood;
+.container {
+    border: 1px solid black;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }

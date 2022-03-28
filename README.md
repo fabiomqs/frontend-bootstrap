@@ -90,4 +90,6 @@ Projects studying and practicing with bootstrap
 
 ## Part 3:
 - **forms**
+- forms
+- forms: form-control
 - Issue #22
