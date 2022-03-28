@@ -17,8 +17,7 @@
 <body>
 
     <!-- Creating form -->
-    <div class="container justify-content-center" id="container-1">
-
+    <div class="container" id="container-1">
         <div class="col-4 m-4">
             <h2>Formulário de Registro</h2>
             <form>
@@ -33,6 +32,28 @@
                     <input type="password" class="form-control" id="password" placeholder="Insira sua senha">
                 </div>
                 <button type="submit" class="btn btn-primary">Cadastrar</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Form disabled -->
+    <div class="container" id="container-2">
+        <div class="col-4 m-4">
+            <h2>Formulário de Registro</h2>
+            <form>
+                <fieldset disabled="disabled">
+                    <div class="mb-4">
+                        <label for="email" class="form-label">E-mail:</label>
+                        <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                            placeholder="Insira seu e-mail" disabled>
+                        <div id="emailHelp" class="form-text">Não compartilhamos o seu endereço de e-mail.</div>
+                    </div>
+                    <div class="mb-4">
+                        <label for="password" class="form-label">Senha:</label>
+                        <input type="password" class="form-control" id="password" placeholder="Insira sua senha">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Cadastrar</button>
+                </fieldset>
             </form>
         </div>
     </div>
