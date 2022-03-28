@@ -106,4 +106,5 @@ Projects studying and practicing with bootstrap
 ### Part 3.1:
 - **forms/validations**
 - forms: validation
+- HTML 5 validation
 - Issue #23
