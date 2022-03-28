@@ -51,6 +51,15 @@ Projects studying and practicing with bootstrap
 - [X] add 2 tables side by side
 - Issue #21
 
+## Assignment 4:
+- **assignment4**
+- [X] create a form product
+- [X] add a fields: title, description, price ...
+- [X] add a checkbox
+- [X] add a category select
+- [X] add validations
+- Issue #24
+
 ## Samples:
 
 ### Sample 1:
