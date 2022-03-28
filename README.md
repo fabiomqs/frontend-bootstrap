@@ -21,6 +21,11 @@ Projects studying and practicing with bootstrap
 - art gallery page
 - Issues #10, #11, #12, #13
 
+## Project 2:
+- **project_forms**
+- SignIn and Login
+- Issues #25, #26, #27
+
 # Assignments
 
 ## Assignment 1:
