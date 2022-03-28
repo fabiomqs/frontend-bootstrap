@@ -102,3 +102,8 @@ Projects studying and practicing with bootstrap
 - floating label: form-floating
 - Layout + Forms
 - Issue #22
+
+### Part 3.1:
+- **forms/validations**
+- forms: validation
+- Issue #23
