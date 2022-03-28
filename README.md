@@ -95,4 +95,5 @@ Projects studying and practicing with bootstrap
 - form-control-plaintext
 - data-list
 - Selects
+- Checkbox e radio
 - Issue #22
