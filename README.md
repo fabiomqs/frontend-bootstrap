@@ -92,4 +92,5 @@ Projects studying and practicing with bootstrap
 - **forms**
 - forms
 - forms: form-control
+- form-control-plaintext
 - Issue #22
