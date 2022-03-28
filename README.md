@@ -93,4 +93,5 @@ Projects studying and practicing with bootstrap
 - forms
 - forms: form-control
 - form-control-plaintext
+- data-list
 - Issue #22
