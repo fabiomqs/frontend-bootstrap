@@ -96,4 +96,9 @@ Projects studying and practicing with bootstrap
 - data-list
 - Selects
 - Checkbox e radio
+- Switch
+- range
+- input groups
+- floating label
+- Layout + Forms
 - Issue #22
