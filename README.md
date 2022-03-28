@@ -94,4 +94,5 @@ Projects studying and practicing with bootstrap
 - forms: form-control
 - form-control-plaintext
 - data-list
+- Selects
 - Issue #22
