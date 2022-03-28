@@ -99,6 +99,6 @@ Projects studying and practicing with bootstrap
 - Switch
 - range
 - input groups
-- floating label
+- floating label: form-floating
 - Layout + Forms
 - Issue #22
