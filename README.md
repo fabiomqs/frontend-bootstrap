@@ -137,4 +137,12 @@ Projects studying and practicing with bootstrap
 - components/collapse/
 - components/dropdowns/
 - components/modal/
+- components/navbar/
+- components/offcanvas/
+- components/pagination/
+- components/popovers/
+- components/progress/
+- components/scrollspy/
+- components/toasts/
+- components/tooltips/
 - Issue #28
