@@ -135,4 +135,6 @@ Projects studying and practicing with bootstrap
 - components/carousel/#slides-only
 - components/close-button/
 - components/collapse/
+- components/dropdowns/
+- components/modal/
 - Issue #28
