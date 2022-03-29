@@ -65,6 +65,14 @@ Projects studying and practicing with bootstrap
 - [X] add validations
 - Issue #24
 
+## Assignment 5:
+- **assignment5**
+- [X] add a a navbar
+- [X] add slider with 3 images
+- [X] add grid with 6 cards, 4 per row
+- [X] fill in the items with content
+- Issue #29
+
 ## Samples:
 
 ### Sample 1:
