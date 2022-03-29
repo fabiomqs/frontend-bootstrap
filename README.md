@@ -131,7 +131,7 @@ Projects studying and practicing with bootstrap
 - HTML 5 validation
 - Issue #23
 
-## Part 4.1:
+## Part 4:
 - **components**
 - components/accordion/
 - components/alerts/
@@ -154,3 +154,15 @@ Projects studying and practicing with bootstrap
 - components/toasts/
 - components/tooltips/
 - Issue #28
+
+## Part 5:
+- **helpers**
+- helpers/clearfix/
+- helpers/colored-links/
+- helpers/ratio/
+- helpers/position/
+- helpers/stacks/
+- helpers/visually-hidden/
+- helpers/stretched-link/
+- helpers/text-truncation/
+- Issue #30
