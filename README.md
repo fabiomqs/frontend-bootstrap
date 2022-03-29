@@ -122,3 +122,17 @@ Projects studying and practicing with bootstrap
 - forms: validation
 - HTML 5 validation
 - Issue #23
+
+## Part 4.1:
+- **components**
+- components/accordion/
+- components/alerts/
+- components/badge/
+- components/breadcrumb/
+- components/buttons/
+- components/button-group/
+- components/card/
+- components/carousel/#slides-only
+- components/close-button/
+- components/collapse/
+- Issue #28
