@@ -166,3 +166,17 @@ Projects studying and practicing with bootstrap
 - helpers/stretched-link/
 - helpers/text-truncation/
 - Issue #30
+
+## Part 5:
+- **utilities**
+- utilities/background/
+- utilities/borders/
+- utilities/colors/
+- utilities/display/
+- utilities/flex/
+- utilities/interactions/
+- utilities/shadows/
+- utilities/sizing/
+- utilities/spacing/
+- utilities/text/
+- Issue #31
