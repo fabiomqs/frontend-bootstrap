@@ -167,7 +167,7 @@ Projects studying and practicing with bootstrap
 - helpers/text-truncation/
 - Issue #30
 
-## Part 5:
+## Part 6:
 - **utilities**
 - utilities/background/
 - utilities/borders/
