@@ -249,55 +249,85 @@ body {
 /* BEST SELLERS */
 #best-sellers {
     padding: 4em 0;
-  }
-  
-  #best-sellers .row {
+}
+
+#best-sellers .row {
     margin: 0;
-  }
-  
-  #best-sellers .col-md-3 {
+}
+
+#best-sellers .col-md-3 {
     padding: 0;
-  }
-  
-  .title {
+}
+
+.title {
     text-transform: uppercase;
     font-weight: 900;
     font-size: 2.5em;
     margin-bottom: 1em;
     text-align: center;
-  }
-  
-  @media(min-width: 768px) {
+}
+
+@media(min-width: 768px) {
     .title {
-      text-align: left;
+        text-align: left;
     }
-  }
-  
-  .card {
+}
+
+.card {
     text-align: center;
     border-radius: 0;
-  }
-  
-  .card img {
+}
+
+.card img {
     width: 140px;
     margin: 2em auto;
-  }
-  
-  .card .card-category {
+}
+
+.card .card-category {
     font-size: .8rem;
-  }
-  
-  .card .card-text {
+}
+
+.card .card-text {
     margin: 2em 0;
     font-weight: bold;
-  }
-  
-  .btn {
+}
+
+.btn {
     background-color: transparent;
     border-color: #C09578;
-  }
-  
-  .btn:hover {
+}
+
+.btn:hover {
     background-color: #C09578;
     border-color: #C09578;
-  }
+}
+
+/* BOTTOM BANNER */
+#bottom-banner {
+    background-color: #101010;
+    padding: 6em;
+    margin-bottom: 4em;
+    text-align: center;
+}
+
+#bottom-banner .offer-subtitle,
+#bottom-banner h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#bottom-banner .btn {
+    margin: 2em;
+    font-weight: bold;
+    padding: 1em;
+}
+
+#bottom-banner img {
+    max-width: 175px;
+}
+
+@media(min-width: 768px) {
+    #bottom-banner h2 {
+        font-size: 6em;
+    }
+}
