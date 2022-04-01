@@ -3,6 +3,8 @@ Projects studying and practicing with bootstrap
 
 ## Box Model
 - padding pushes the content in
+
+
 ![box-model](/img/css-box-model.png)
 
 ## Snipets vscode:
