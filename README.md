@@ -3,7 +3,7 @@ Projects studying and practicing with bootstrap
 
 ## Box Model
 - padding pushes the content in
-![box-model](/frontend-bootstrap/img/css-box-model.png)
+![box-model](/img/css-box-model.png)
 
 ## Snipets vscode:
 - create div with class and id
